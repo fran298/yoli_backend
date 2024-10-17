@@ -1,0 +1,9 @@
+{
+  "labels":[
+    "product_query",
+    "service_query",
+    "price_query"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
